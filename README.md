@@ -75,9 +75,6 @@ const mudassir = {
     <td>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mudassir-Coder&theme=github_dark" />
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mudassir-Coder&theme=github_dark" />
-    </td>
   </tr>
 </table>
 
