@@ -70,9 +70,16 @@ const mudassir = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mudassir-Coder&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassir-Coder&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mudassir-Coder&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassir-Coder&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
