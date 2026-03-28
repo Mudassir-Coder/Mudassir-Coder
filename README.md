@@ -73,10 +73,10 @@ const mudassir = {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mudassir-Coder&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mudassir-Coder&theme=github_dark" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassir-Coder&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mudassir-Coder&theme=github_dark" />
     </td>
   </tr>
 </table>
