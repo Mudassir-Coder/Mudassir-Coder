@@ -84,7 +84,7 @@ const mudassir = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mudassir-Coder&theme=chartreuse-dark&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=Mudassir-Coder&theme=chartreuse-dark&hide_border=true&background=0d1117" />
 </div>
 
 ---
