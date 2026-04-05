@@ -85,7 +85,7 @@ const mudassir = {
 </div>
 
 <div align="center">
-  
+  <img src="https://streak-stats.demolab.com/?user=Mudassir-Coder&theme=chartreuse-dark&hide_border=true&background=0d1117&timezone=Asia/Karachi&v=2" />
 </div>
 
 ---
