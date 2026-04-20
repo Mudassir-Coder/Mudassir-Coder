@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```javascript
 const mudassir = {
@@ -40,7 +40,7 @@ const mudassir = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -70,7 +70,7 @@ const mudassir = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -90,7 +90,7 @@ const mudassir = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -101,11 +101,11 @@ const mudassir = {
 
 ---
 
-## 💡 Currently Learning
+##  Currently Learning
 
-- 🔄 **Zustand** — lightweight global state management
-- ⚡ **React Query** — server state, caching & data syncing
-- 🏗️ **Next.js 14** — App Router, Server Components, API routes
+-  **Zustand** — lightweight global state management
+-  **React Query** — server state, caching & data syncing
+-  **Next.js 14** — App Router, Server Components, API routes
 
 ---
 
